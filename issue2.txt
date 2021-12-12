@@ -1,0 +1,1 @@
+Significa que se intenta acceder a una posicion del array que no existe
